@@ -1,5 +1,5 @@
 # my-coding-temple-ship-log
 
-Author: Coding Temple
+Author: Jaycob Hoffman
 
 url: www.codingtemple.com
